@@ -1,1 +1,2 @@
-git push --force# Repositorio
+
+Mi primer repositorio subido con éxito
